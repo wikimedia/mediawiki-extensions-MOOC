@@ -1,3 +1,7 @@
+/node_modules/
+/vendor/
+/composer.lock
+
 # Eclipse files
 /.settings/
 /.buildpath
