@@ -28,12 +28,12 @@
 	"mooc-section-lessons-add-title": "Add lesson",
 	"mooc-lesson-add-unit-summary": "Unit \"$1\" added to the lesson.",
 	"mooc-overview-add-lesson-summary": "Lesson \"$1\" added to the MOOC.",
-	"_mooc-comment-modal-button-title-<action>": "// Labels for action buttons in modal boxes.",
+
 	"mooc-modal-button-title-save": "Save",
 	"mooc-modal-button-title-add": "Add",
 	"mooc-modal-button-title-cancel": "Cancel",
 	"mooc-modal-button-title-reset": "Reset",
-	"_mooc-comment-section-<section>-empty-...": "// Info texts and links for empty sections.",
+
 	"mooc-section-learning-goals-empty-description": "There have been no learning goals set for this course yet.",
 	"mooc-section-learning-goals-empty-edit-link": "Click here, to add learning goals.",
 	"mooc-section-video-empty-description": "The course video has not been defined yet.",
@@ -48,7 +48,7 @@
 	"mooc-section-lessons-empty-edit-link": "Use the button \"Add Lesson\" to add a lesson.",
 	"mooc-section-units-empty-description": "No units have been added to this lesson yet.",
 	"mooc-section-units-empty-edit-link": "Use the button \"Add Unit\" to add a unit.",
-	"_mooc-comment-button-...": "// Labels for general UI buttons.",
+
 	"mooc-button-expand-section": "Click to expand",
 
 	"mooc-overview-add-lesson-modal-placeholder-name": "Name of the new lesson",
