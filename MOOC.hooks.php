@@ -84,7 +84,7 @@ class MOOCHooks {
      * @param $flags
      * @param Status $status edit status
      */
-    public static function onPageContentSave( &$wikiPage, &$user, &$content, &$summary,
+    public static function onPageContentSave( WikiPage &$wikiPage, &$user, &$content, &$summary,
                                               $isMinor, $isWatch, $section, &$flags, &$status ) {
         // limit hook to saves (not creates) of MOOC entities
         if ( $wikiPage->getContentModel() === MoocContent::CONTENT_MODEL_MOOC_ITEM && $wikiPage->exists() ) {
